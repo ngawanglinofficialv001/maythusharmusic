@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/sasukexmusic-5us/maythusharmusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ngawanglinofficialv001/maythusharmusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/sasukexmusic-5us/maythusharmusic && cd maythusharmusic
+   git clone https://github.com/ngawanglinofficialv001/maythusharmusic && cd maythusharmusic
    ```
 6. **Install Requirements**
    ```bash
